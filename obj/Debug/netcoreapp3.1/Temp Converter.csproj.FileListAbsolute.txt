@@ -1,0 +1,13 @@
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.csprojAssemblyReference.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.AssemblyInfoInputs.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.AssemblyInfo.cs
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.deps.json
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.runtimeconfig.json
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.runtimeconfig.dev.json
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.dll
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\bin\Debug\netcoreapp3.1\Temp Converter.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.dll
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Temp Converter\obj\Debug\netcoreapp3.1\Temp Converter.genruntimeconfig.cache
